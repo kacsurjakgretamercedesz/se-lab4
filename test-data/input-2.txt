@@ -1,0 +1,3 @@
+# Próbalövés amikor a primary store üres (üres tár kezelése)
+GT4500,0,0,10,0
+TORPEDO,SINGLE
